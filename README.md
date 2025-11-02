@@ -1,9 +1,5 @@
 <div align="center">
 
-  <a href="https://rishavchanda.io">
-    <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Banner"/>
-  </a>
-
    <h1>
     Hi there, I'm Mahline Hasan Sabab 👋
   </h1>
